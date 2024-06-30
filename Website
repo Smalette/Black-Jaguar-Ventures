@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Black Jaguar Ventures</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #003366;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .intro {
+            background: #f4f4f4;
+            padding: 30px 0;
+            text-align: center;
+        }
+        .intro h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        .services, .contact {
+            padding: 20px 0;
+        }
+        .services h2, .contact h2 {
+            text-align: center;
+            color: #003366;
+        }
+        .services ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .services ul li {
+            background: #e2e2e2;
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        footer {
+            background-color: #003366;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Black Jaguar Ventures</h1>
+        </div>
+    </header>
+
+    <section class="intro">
+        <div class="container">
+            <h1>Welcome to Black Jaguar Ventures</h1>
+            <p>Helping pre-seed, seed, series A, and series B stage companies in their fundraising efforts, business restructuring, financial reconstruction, and strategy. We have assisted startups in raising over $115M worldwide in sectors including Artificial Intelligence, Fintech, Edtech, Insurtech, Proptech, Social Media, and Energy.</p>
+        </div>
+    </section>
+
+    <section class="services">
+        <div class="container">
+            <h2>Our Fundraising Services</h2>
+            <ul>
+                <li>Creation of essential fundraising materials, including business plans, pitch decks, one-page teasers, fundraising round executive summaries, financial projections, and valuation models.</li>
+                <li>Development of tailored fundraising strategies, presenting various potential avenues, and providing expert recommendations.</li>
+                <li>Hands-on fundraising support and outreach to our extensive network of investors, including private investors, VCs, and crowdfunding platforms. Our network boasts access to thousands of funds and individual investors worldwide, who have collectively invested billions in the industry.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>Email: info@blackjaguarventures.com</p>
+            <p>Phone: +1-234-567-8901</p>
+            <p>Address: 1234 Market Street, San Francisco, CA 94103</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Black Jaguar Ventures. All Rights Reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
